@@ -1,6 +1,6 @@
 I’m currently learning deep learning and knowledge of large language model.
 
-My Blog: [fishcat's blog](https://fishcat-blog.vercel.app)
+My Blog: [https://fishcat-blog.vercel.app](https://fishcat-blog.vercel.app)
 <!--
 **fishcat37/fishcat37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
