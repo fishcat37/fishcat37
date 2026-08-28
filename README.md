@@ -1,4 +1,10 @@
-I’m currently learning deep learning and knowledge of large language model.
+# Hi, I'm fishcat 👋 
+ 
+AI / Deep Learning developer interested in: 
+- Large Language Models 
+- Post-training & Reinforcement Learning 
+- AI Agents 
+- Kaggle & AI competitions 
 
 My Blog: [https://fishcat-blog.vercel.app](https://fishcat-blog.vercel.app)
 <!--
