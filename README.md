@@ -6,7 +6,7 @@ AI / Deep Learning developer interested in:
 - AI Agents 
 - Kaggle & AI competitions 
 
-My Blog: [https://fishcat-blog.vercel.app](https://fishcat-blog.vercel.app)
+[My Blog](https://fishcat37-blog.pages.dev/)
 <!--
 **fishcat37/fishcat37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
